@@ -1,0 +1,4 @@
+D:\c#\QuanLyKSDM\DTO\bin\Debug\DTO.dll
+D:\c#\QuanLyKSDM\DTO\bin\Debug\DTO.pdb
+D:\c#\QuanLyKSDM\DTO\obj\Debug\DTO.dll
+D:\c#\QuanLyKSDM\DTO\obj\Debug\DTO.pdb

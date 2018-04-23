@@ -1,0 +1,7 @@
+D:\c#\QuanLyKSDM\DAL\bin\Debug\DAL.dll
+D:\c#\QuanLyKSDM\DAL\bin\Debug\DAL.pdb
+D:\c#\QuanLyKSDM\DAL\bin\Debug\DTO.dll
+D:\c#\QuanLyKSDM\DAL\bin\Debug\DTO.pdb
+D:\c#\QuanLyKSDM\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+D:\c#\QuanLyKSDM\DAL\obj\Debug\DAL.dll
+D:\c#\QuanLyKSDM\DAL\obj\Debug\DAL.pdb
